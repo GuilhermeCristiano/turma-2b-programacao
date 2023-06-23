@@ -1,15 +1,3 @@
 body{
-    background-color: #394b86;
-}.cabeçalho imagem.png{
-    width: 25%;
-}.escola{
-    background-image: linear-gradient(#216fec,#109bbbd0);
-    color: white;
-}.escola{
-    background-image: linear-gradient(#216fec,#109bbbd0);
-    color:white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
+    background-color: #99AEF5;
 }
